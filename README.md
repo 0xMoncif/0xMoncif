@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 just a curious mind exploring tech wizardry.
 
-* 🧠  I'm learning back-end
+
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
