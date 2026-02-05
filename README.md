@@ -8,7 +8,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind">
         <img src="https://skillicons.dev/icons?i=python">
         <img src="https://skillicons.dev/icons?i=django">
-        <img src="https://skillicons.devmysql/icons?i=c">
+        <img src="https://skillicons.dev/icons?i=c">
         <img src="https://skillicons.dev/icons?i=java">
         <img src="https://skillicons.dev/icons?i=html">
         <img src="https://skillicons.dev/icons?i=css">
